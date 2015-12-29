@@ -1,4 +1,4 @@
-# tipcal
+# Tipcal
 # Pre-work - Tipcal
 
 Tipcal is a tip calculator application for iOS.
