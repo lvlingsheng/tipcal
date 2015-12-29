@@ -24,15 +24,17 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/SYaSqVI.gif?1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
-Describe any challenges encountered while building the app.
+The first challenge is the UI design. For this APP, as the function is simple, how to design a simple but good looking UI is a bit complicated. 
+
+The second challene is the Language. I used to use Objective-C, but for swift, there are so much to learn.
+
+I am not satisfied with current version UI, may have better version later.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2015] [Lingsheng Lyu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
