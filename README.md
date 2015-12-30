@@ -32,6 +32,8 @@ The second challene is the Language. I used to use Objective-C, but for swift, t
 
 I am not satisfied with current version UI, may have better version later.
 
+Thanks to open source BubbleTranstion. https://github.com/andreamazz/BubbleTransition.
+
 ## License
 
     Copyright [2015] [Lingsheng Lyu]
